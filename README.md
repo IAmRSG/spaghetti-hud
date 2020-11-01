@@ -7,7 +7,4 @@ If you want to use my metabolism, just check for srp:drink and srp:eat, otherwis
 
 I hope you enjoy it, Malik
 
-
-DEPENDENCIES: 
-
-<a href="https://github.com/MalikTM/spaghetti-metabolism/tree/main">Spaghetti Metabolism</a>
+#Modified by RSG to accomdate VRP Metabolism.
