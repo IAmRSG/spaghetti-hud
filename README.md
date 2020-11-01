@@ -7,4 +7,4 @@ If you want to use my metabolism, just check for srp:drink and srp:eat, otherwis
 
 I hope you enjoy it, Malik
 
-# Modified by RSG to accomdate VRP Metabolism.
+# Modified by RSG to accomdate VORP Core Metabolism.
