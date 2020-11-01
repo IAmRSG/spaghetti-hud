@@ -1,5 +1,5 @@
 window.addEventListener('message', function (event) {
-$('body').animate({ opacity: event.data.show ? 1 : 0 }, 500);
+$('body').animate({ opacity: event.data.show ? 1 : 0 }, 1000);
 //    console.log(event.data.temp);
     
 //    if(typeof(event.data.items) != 'undefined') {
